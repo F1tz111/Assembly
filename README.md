@@ -1,2 +1,1 @@
-aseembly coding
-in 8086 emu 
+# x86 Assembly Academic Project 
